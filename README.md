@@ -1,5 +1,7 @@
 # Project Idea
 ### Abstract
+##check project here (https://intelli-doc-frontend-sand.vercel.app/ "Click to visit the project")
+
 In modern healthcare, patients often face a lengthy process involving multiple visits to healthcare providers, especially when assessment of lab tests are required. This traditional approach can be inefficient,
 requiring additional time, travel, and expenses. With the rise of digital health technologies, there is an opportunity to streamline this process using artificial intelligence (AI) and machine learning (ML) to 
 provide quicker, more accessible diagnostic assessments.
